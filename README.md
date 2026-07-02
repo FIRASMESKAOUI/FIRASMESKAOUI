@@ -38,15 +38,24 @@ Full stack developer focused on scalable architecture, real-time systems, and cl
 <td width="50%" valign="top">
 
 ### 📊 [Atlas View](#)
-Data visualization & analytics platform built for insight, performance, and scale.
+Advanced charting platform for the Tunis Stock Exchange (BVMT) — candlesticks, drawing tools, and a full technical indicator suite.
 
-`Next.js` `NestJS` `PostgreSQL`
+- 📈 Candlestick, line & area charts with technical indicators
+- 🎨 Drawing tools — trendlines, channels, Fibonacci, horizontal lines
+- 📊 Indicators — MA, Bollinger, RSI, MACD, Stochastic, Ichimoku, Williams %R
+- 🔍 Instant search across BVMT-listed stocks
+- 📱 Installable PWA (mobile & desktop)
+- 🌓 Dark / light adaptive UI
+- 💾 Local save of drawings per symbol
+- 📥 PNG export with indicators
+
+`JavaScript` `Canvas` `PWA`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 [Foxy Chat](#)
-Real-time chat system engineered for speed, UX, and a scalable backend.
+Secure real-time chat system built for privacy and speed.
 
 `Node.js` `MongoDB` `Redis` `WebSockets`
 
@@ -76,16 +85,6 @@ Real-time chat system engineered for speed, UX, and a scalable backend.
 </div>
 
 </details>
-
-<br/>
-
-## Now Playing
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31uqj37eyaoyshsnhkzwixqcs2lm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true)](https://open.spotify.com/user/31uqj37eyaoyshsnhkzwixqcs2lm)
-
-</div>
 
 <br/>
 
