@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:1F6FEB&text=Firas%20Meskaoui&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Atlas%20View%20•%20Foxy%20Chat&descSize=16&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:1F6FEB&text=Firas%20Meskaoui&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=16&descAlignY=58"/>
 
 <br/>
 
@@ -17,7 +17,7 @@ Full stack developer focused on scalable architecture, real-time systems, and cl
 - 🏗️ Backend-heavy engineer who also owns the frontend
 - ⚡ Real-time systems & performance-critical apps
 - 🐳 Docker-first workflow, deploy-ready by default
-- 📦 Currently building **Atlas View** and **Foxy Chat**
+- 📦 Currently building production-grade systems
 
 <br/>
 
@@ -33,30 +33,17 @@ Full stack developer focused on scalable architecture, real-time systems, and cl
 
 ## Featured Projects
 
-<table align="center">
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 📊 [Atlas View](https://atlasviewbvmt.vercel.app/)
+### 📊 Atlas View
 Advanced BVMT charting platform — candlesticks, drawing tools & technical indicators.
-
-[![Atlas View](https://s0.wp.com/mshots/v1/https%3A%2F%2Fatlasviewbvmt.vercel.app%2F?w=600&h=338)](https://atlasviewbvmt.vercel.app/)
 
 `JavaScript` `Canvas` `PWA`
 
-</td>
-<td width="50%" valign="top" align="center">
+<br/>
 
-### 💬 [Foxy Chat](https://foxychat.vercel.app/)
+### 💬 Foxy Chat
 Secure real-time chat system built for privacy and speed.
 
-[![Foxy Chat](https://s0.wp.com/mshots/v1/https%3A%2F%2Ffoxychat.vercel.app%2F?w=600&h=338)](https://foxychat.vercel.app/)
-
 `Node.js` `MongoDB` `Redis` `WebSockets`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -65,6 +52,7 @@ Secure real-time chat system built for privacy and speed.
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats-green-delta-41.vercel.app/api?username=FIRASMESKAOUI&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9"/>
+
 <img height="165em" src="https://github-readme-stats-green-delta-41.vercel.app/api/top-langs/?username=FIRASMESKAOUI&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9"/>
 
 <img src="https://streak-stats.demolab.com?user=FIRASMESKAOUI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB"/>
@@ -109,8 +97,7 @@ Secure real-time chat system built for privacy and speed.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FIRASMESKAOUI)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-firasmeskaoui2%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firasmeskaoui2@gmail.com)
 
 <br/><br/>
 
