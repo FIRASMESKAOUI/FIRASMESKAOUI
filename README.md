@@ -19,7 +19,7 @@ Full stack developer focused on scalable architecture, real-time systems, and cl
 
 ## Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,docker&theme=dark" />
 </div>
 
 <br/>
