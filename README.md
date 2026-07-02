@@ -59,21 +59,16 @@ Built with **React + TypeScript + PostgreSQL**
 
 </div>
 
-<details>
-<summary><b>Activity Graph</b></summary>
-<br/>
+## Activity Graph
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FIRASMESKAOUI&theme=github-compact&hide_border=true&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=ffffff"/>
+
 </div>
 
-</details>
 
-<br/>
-
-<details>
-<summary><b>Skill Badges</b></summary>
-<br/>
+## Skill Badges
 
 <div align="center">
 
@@ -87,10 +82,6 @@ Built with **React + TypeScript + PostgreSQL**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
-</details>
-
-<br/>
 
 ## Connect
 
