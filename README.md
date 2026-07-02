@@ -69,8 +69,8 @@ Secure real-time chat system built for privacy and speed.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=FIRASMESKAOUI&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIRASMESKAOUI&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats-green-delta-41.vercel.app/api?username=FIRASMESKAOUI&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats-green-delta-41.vercel.app/api/top-langs/?username=FIRASMESKAOUI&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9"/>
 
 <img src="https://streak-stats.demolab.com?user=FIRASMESKAOUI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB"/>
 
