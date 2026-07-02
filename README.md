@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:1F6FEB&text=Firas%20Meskaoui&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=16&descAlignY=58"/>
   <br/>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;MERN+%7C+Next.js+%7C+NestJS+%7C+Django;Real-time+apps+%2C+clean+architecture)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;Real-time+apps+%2C+clean+architecture)
 </div>
 
 <br/>
