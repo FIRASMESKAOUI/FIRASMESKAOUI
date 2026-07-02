@@ -25,7 +25,7 @@ Full stack developer focused on scalable architecture, real-time systems, and cl
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,django,python,postgres,mongodb,redis,docker,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,docker,linux&theme=dark" />
 
 </div>
 
@@ -34,16 +34,16 @@ Full stack developer focused on scalable architecture, real-time systems, and cl
 ## Featured Projects
 
 ### 📊 Atlas View
-Advanced BVMT charting platform — candlesticks, drawing tools & technical indicators.
+Advanced BVMT charting platform with interactive UI, candlestick visualization, and technical analysis tools.
 
-`JavaScript` `Canvas` `PWA`
+Built with **React + TypeScript + PostgreSQL**
 
 <br/>
 
 ### 💬 Foxy Chat
-Secure real-time chat system built for privacy and speed.
+Real-time messaging system with low-latency communication and scalable architecture.
 
-`Node.js` `MongoDB` `Redis` `WebSockets`
+Built with **React + TypeScript + PostgreSQL**
 
 <br/>
 
@@ -106,5 +106,3 @@ Secure real-time chat system built for privacy and speed.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1F6FEB,100:0D1117&section=footer"/>
-refaire 
-et dans les desciption du projet n'ecrit pas nest et net , j'ai utiliser reacte typs script , postgres
