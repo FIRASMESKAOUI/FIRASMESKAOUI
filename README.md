@@ -1,98 +1,105 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:1F6FEB&text=Firas%20Meskaoui&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=16&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:1F6FEB&text=Firas%20Meskaoui&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend-Oriented%20Full%20Stack%20Engineer&descSize=16&descAlignY=58"/>
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;MERN+%7C+Next.js+%7C+NestJS+%7C+Django;Real-time+apps+%2C+clean+architecture)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Scalable+backend+systems+%26+real-time+architecture;Distributed+apps+%7C+APIs+%7C+performance+engineering;Clean+architecture+%2C+production-ready+systems)
 
 </div>
 
-<br/>
+---
 
 ## About
 
-Full stack developer focused on scalable architecture, real-time systems, and clean, maintainable code. I build products end to end — from database design to polished UI — and ship them.
+Backend-focused full stack engineer building scalable, real-time, and production-grade systems.
 
-- 🏗️ Backend-heavy engineer who also owns the frontend
-- ⚡ Real-time systems & performance-critical apps
-- 🐳 Docker-first workflow, deploy-ready by default
-- 📦 Currently building production-grade systems
+I design systems end-to-end: from API architecture and database modeling to performant UIs and real-time features.
 
-<br/>
+- ⚙️ Backend-first architecture mindset
+- 🚀 Real-time systems (WebSockets, event-driven design)
+- 🧠 Clean architecture & scalability focus
+- 🐳 Dockerized, production-ready deployments
+
+---
 
 ## Tech Stack
 
-<div align="center">
+### Frontend
+- :contentReference[oaicite:0]{index=0}  
+- :contentReference[oaicite:1]{index=1}  
+- :contentReference[oaicite:2]{index=2}  
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,django,python,postgres,mongodb,redis,docker,git,github,linux,vscode&theme=dark" />
+---
 
-</div>
+### Backend
+- :contentReference[oaicite:3]{index=3}  
+- :contentReference[oaicite:4]{index=4}  
 
-<br/>
+---
+
+### Data & Cache
+- :contentReference[oaicite:5]{index=5}  
+- :contentReference[oaicite:6]{index=6}  
+
+---
+
+### Infrastructure
+- :contentReference[oaicite:7]{index=7}  
+
+---
+
+## Focus Areas
+
+- Real-time architectures (chat systems, live data)
+- Scalable REST & event-driven APIs
+- System design & backend optimization
+- Performance-critical applications
+- Clean modular architecture
+
+---
 
 ## Featured Projects
 
 ### 📊 Atlas View
-Advanced BVMT charting platform — candlesticks, drawing tools & technical indicators.
+Financial charting platform with real-time data visualization, candlestick charts, and technical indicators.
 
-`JavaScript` `Canvas` `PWA`
+`Next.js` `Canvas` `Real-time data`
 
-<br/>
+---
 
 ### 💬 Foxy Chat
-Secure real-time chat system built for privacy and speed.
+Real-time messaging system with low-latency architecture and scalable WebSocket backend.
 
-`Node.js` `MongoDB` `Redis` `WebSockets`
+`NestJS` `Redis` `WebSockets` `PostgreSQL`
 
-<br/>
+---
 
 ## GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-green-delta-41.vercel.app/api?username=FIRASMESKAOUI&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=FIRASMESKAOUI&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB&text_color=C9D1D9"/>
 
-<img height="165em" src="https://github-readme-stats-green-delta-41.vercel.app/api/top-langs/?username=FIRASMESKAOUI&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=1F6FEB&text_color=C9D1D9"/>
-
-<img src="https://streak-stats.demolab.com?user=FIRASMESKAOUI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIRASMESKAOUI&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117"/>
 
 </div>
 
-<details>
-<summary><b>Activity Graph</b></summary>
-<br/>
+---
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FIRASMESKAOUI&theme=github-compact&hide_border=true&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=ffffff"/>
-</div>
+## Architecture Philosophy
 
-</details>
+I prefer:
 
-<br/>
+- Stateless backend services
+- Event-driven systems when needed
+- Redis for caching & real-time performance
+- PostgreSQL for strong relational consistency
+- Modular monoliths over premature microservices
 
-<details>
-<summary><b>Skill Badges</b></summary>
-<br/>
+---
 
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-</details>
-
-<br/>
-
-## Connect
+## Contact
 
 <div align="center">
 
@@ -104,5 +111,7 @@ Secure real-time chat system built for privacy and speed.
 <img src="https://komarev.com/ghpvc/?username=FIRASMESKAOUI&style=for-the-badge&color=1F6FEB&label=Profile+Views"/>
 
 </div>
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1F6FEB,100:0D1117&section=footer"/>
