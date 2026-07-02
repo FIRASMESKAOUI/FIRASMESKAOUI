@@ -35,27 +35,22 @@ Full stack developer focused on scalable architecture, real-time systems, and cl
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 📊 [Atlas View](#)
-Advanced charting platform for the Tunis Stock Exchange (BVMT) — candlesticks, drawing tools, and a full technical indicator suite.
+### 📊 [Atlas View](https://atlasviewbvmt.vercel.app/)
+Advanced BVMT charting platform — candlesticks, drawing tools & technical indicators.
 
-- 📈 Candlestick, line & area charts with technical indicators
-- 🎨 Drawing tools — trendlines, channels, Fibonacci, horizontal lines
-- 📊 Indicators — MA, Bollinger, RSI, MACD, Stochastic, Ichimoku, Williams %R
-- 🔍 Instant search across BVMT-listed stocks
-- 📱 Installable PWA (mobile & desktop)
-- 🌓 Dark / light adaptive UI
-- 💾 Local save of drawings per symbol
-- 📥 PNG export with indicators
+[![Atlas View](https://image.thum.io/get/width/600/crop/338/https://atlasviewbvmt.vercel.app/)](https://atlasviewbvmt.vercel.app/)
 
 `JavaScript` `Canvas` `PWA`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 💬 [Foxy Chat](#)
+### 💬 [Foxy Chat](https://foxychat.vercel.app/)
 Secure real-time chat system built for privacy and speed.
+
+[![Foxy Chat](https://image.thum.io/get/width/600/crop/338/https://foxychat.vercel.app/)](https://foxychat.vercel.app/)
 
 `Node.js` `MongoDB` `Redis` `WebSockets`
 
