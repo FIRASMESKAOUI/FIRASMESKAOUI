@@ -40,7 +40,7 @@ Full stack developer focused on scalable architecture, real-time systems, and cl
 ### 📊 [Atlas View](https://atlasviewbvmt.vercel.app/)
 Advanced BVMT charting platform — candlesticks, drawing tools & technical indicators.
 
-[![Atlas View](https://image.thum.io/get/width/600/crop/338/https://atlasviewbvmt.vercel.app/)](https://atlasviewbvmt.vercel.app/)
+[![Atlas View](https://s0.wp.com/mshots/v1/https%3A%2F%2Fatlasviewbvmt.vercel.app%2F?w=600&h=338)](https://atlasviewbvmt.vercel.app/)
 
 `JavaScript` `Canvas` `PWA`
 
@@ -50,7 +50,7 @@ Advanced BVMT charting platform — candlesticks, drawing tools & technical indi
 ### 💬 [Foxy Chat](https://foxychat.vercel.app/)
 Secure real-time chat system built for privacy and speed.
 
-[![Foxy Chat](https://image.thum.io/get/width/600/crop/338/https://foxychat.vercel.app/)](https://foxychat.vercel.app/)
+[![Foxy Chat](https://s0.wp.com/mshots/v1/https%3A%2F%2Ffoxychat.vercel.app%2F?w=600&h=338)](https://foxychat.vercel.app/)
 
 `Node.js` `MongoDB` `Redis` `WebSockets`
 
