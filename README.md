@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:1F6FEB&text=Firas%20Meskaoui&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Atlas%20View%20•%20Foxy%20Chat&descSize=16&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:1F6FEB&text=Firas%20Meskaoui&fontColor=ffffff&fontSize=48&fontAlignY=50"/>
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;MERN+%7C+Next.js+%7C+NestJS+%7C+Django;Real-time+apps+%2C+clean+architecture)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+NestJS+%7C+Django;Real-time+apps+%2C+clean+architecture)
 
 </div>
 
@@ -40,8 +40,6 @@ Full stack developer focused on scalable architecture, real-time systems, and cl
 ### 📊 [Atlas View](https://atlasviewbvmt.vercel.app/)
 Advanced BVMT charting platform — candlesticks, drawing tools & technical indicators.
 
-[![Atlas View](https://s0.wp.com/mshots/v1/https%3A%2F%2Fatlasviewbvmt.vercel.app%2F?w=600&h=338)](https://atlasviewbvmt.vercel.app/)
-
 `JavaScript` `Canvas` `PWA`
 
 </td>
@@ -49,8 +47,6 @@ Advanced BVMT charting platform — candlesticks, drawing tools & technical indi
 
 ### 💬 [Foxy Chat](https://foxychat.vercel.app/)
 Secure real-time chat system built for privacy and speed.
-
-[![Foxy Chat](https://s0.wp.com/mshots/v1/https%3A%2F%2Ffoxychat.vercel.app%2F?w=600&h=338)](https://foxychat.vercel.app/)
 
 `Node.js` `MongoDB` `Redis` `WebSockets`
 
@@ -71,21 +67,15 @@ Secure real-time chat system built for privacy and speed.
 
 </div>
 
-<details>
-<summary><b>Activity Graph</b></summary>
-<br/>
+## Activity Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FIRASMESKAOUI&theme=github-compact&hide_border=true&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=ffffff"/>
 </div>
 
-</details>
-
 <br/>
 
-<details>
-<summary><b>Skill Badges</b></summary>
-<br/>
+## Skill Badges
 
 <div align="center">
 
@@ -100,8 +90,6 @@ Secure real-time chat system built for privacy and speed.
 
 </div>
 
-</details>
-
 <br/>
 
 ## Connect
@@ -110,7 +98,7 @@ Secure real-time chat system built for privacy and speed.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FIRASMESKAOUI)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firasmeskaoui2@gmail.com)
 
 <br/><br/>
 
