@@ -25,27 +25,11 @@ I design systems end-to-end: from API architecture and database modeling to perf
 
 ## Tech Stack
 
-### Frontend
-- :contentReference[oaicite:0]{index=0}  
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}  
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,redis,docker&theme=dark" />
 
-### Backend
-- :contentReference[oaicite:3]{index=3}  
-- :contentReference[oaicite:4]{index=4}  
-
----
-
-### Data & Cache
-- :contentReference[oaicite:5]{index=5}  
-- :contentReference[oaicite:6]{index=6}  
-
----
-
-### Infrastructure
-- :contentReference[oaicite:7]{index=7}  
+</div>
 
 ---
 
@@ -77,11 +61,11 @@ Low-latency real-time messaging system built with scalable WebSocket architectur
 
 ## Architecture Philosophy
 
-- Stateless backend services
-- Event-driven systems when needed
-- Redis for caching & real-time performance
-- PostgreSQL for strong consistency
-- Modular monolith over premature microservices
+- Stateless backend services  
+- Event-driven systems when needed  
+- Redis for caching & real-time performance  
+- PostgreSQL for strong consistency  
+- Modular monolith over premature microservices  
 
 ---
 
