@@ -16,10 +16,10 @@ Backend-focused full stack engineer building scalable, real-time, and production
 
 I design systems end-to-end: from API architecture and database modeling to performant UIs and real-time features.
 
-- ⚙️ Backend-first architecture mindset
-- 🚀 Real-time systems (WebSockets, event-driven design)
-- 🧠 Clean architecture & scalability focus
-- 🐳 Dockerized, production-ready deployments
+- ⚙️ Backend-first architecture mindset  
+- 🚀 Real-time systems (WebSockets, event-driven design)  
+- 🧠 Clean architecture & scalability focus  
+- 🐳 Dockerized, production-ready deployments  
 
 ---
 
@@ -62,16 +62,26 @@ I design systems end-to-end: from API architecture and database modeling to perf
 ## Featured Projects
 
 ### 📊 Atlas View
-Financial charting platform with real-time data visualization, candlestick charts, and technical indicators.
+Financial charting platform with real-time market data, candlestick visualization, and technical analysis tools.
 
-`Next.js` `Canvas` `Real-time data`
+`Next.js` `Canvas` `Real-time systems`
 
 ---
 
 ### 💬 Foxy Chat
-Real-time messaging system with low-latency architecture and scalable WebSocket backend.
+Low-latency real-time messaging system built with scalable WebSocket architecture.
 
 `NestJS` `Redis` `WebSockets` `PostgreSQL`
+
+---
+
+## Architecture Philosophy
+
+- Stateless backend services
+- Event-driven systems when needed
+- Redis for caching & real-time performance
+- PostgreSQL for strong consistency
+- Modular monolith over premature microservices
 
 ---
 
@@ -83,19 +93,9 @@ Real-time messaging system with low-latency architecture and scalable WebSocket 
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIRASMESKAOUI&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117"/>
 
+<img src="https://streak-stats.demolab.com?user=FIRASMESKAOUI&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB"/>
+
 </div>
-
----
-
-## Architecture Philosophy
-
-I prefer:
-
-- Stateless backend services
-- Event-driven systems when needed
-- Redis for caching & real-time performance
-- PostgreSQL for strong relational consistency
-- Modular monoliths over premature microservices
 
 ---
 
